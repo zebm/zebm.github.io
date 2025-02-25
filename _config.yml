@@ -2,5 +2,11 @@ title: Work In Progress
 
 theme: minima
 
+minima:
+  social_links:
+    - title: Check out my Github
+      icon: github
+      url: "https://https://github.com/zebm"
+
 exclude:
 - README.md
